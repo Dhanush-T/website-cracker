@@ -1,0 +1,7 @@
+requests
+ipwhois
+bs4
+lxml
+dnslib
+tldextract
+icmplib
